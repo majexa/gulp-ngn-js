@@ -1,0 +1,87 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "gulp-ngn-js",
+        "scope": null,
+        "escapedName": "gulp-ngn-js",
+        "name": "gulp-ngn-js",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/user/www/grid-builder"
+    ]
+  ],
+  "_from": "gulp-ngn-js@latest",
+  "_id": "gulp-ngn-js@1.0.1",
+  "_inCache": true,
+  "_location": "/gulp-ngn-js",
+  "_nodeVersion": "7.2.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/gulp-ngn-js-1.0.0.tgz_1485346312508_0.6590828592889011"
+  },
+  "_npmUser": {
+    "name": "andrey-yartsev",
+    "email": "andrey.yartsev.g@gmail.com"
+  },
+  "_npmVersion": "3.10.9",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "gulp-ngn-js",
+    "scope": null,
+    "escapedName": "gulp-ngn-js",
+    "name": "gulp-ngn-js",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/gulp-ngn-js/-/gulp-ngn-js-1.0.0.tgz",
+  "_shasum": "363bb674628a27f692327ad57d8b002393839d8f",
+  "_shrinkwrap": null,
+  "_spec": "gulp-ngn-js",
+  "author": {
+    "name": "Andrey Yartsev",
+    "email": "andrey.yartsev.g.@gmail.com",
+    "url": "http://majexa.ru"
+  },
+  "bugs": {
+    "url": "https://github.com/majexa/gulp-ngn-js/issues"
+  },
+  "dependencies": {},
+  "description": "Gulp Ngn JS builder",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "363bb674628a27f692327ad57d8b002393839d8f",
+    "tarball": "https://registry.npmjs.org/gulp-ngn-js/-/gulp-ngn-js-1.0.0.tgz"
+  },
+  "homepage": "https://github.com/majexa/gulp-ngn-js#readme",
+  "keywords": [
+    "ngn"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "andrey-yartsev",
+      "email": "andrey.yartsev.g@gmail.com"
+    }
+  ],
+  "name": "gulp-ngn-js",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majexa/gulp-ngn-js.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}
