@@ -11,10 +11,6 @@
   "description": "Gulp Ngn JS builder",
   "devDependencies": {},
   "directories": {},
-  "dist": {
-    "shasum": "363bb674628a27f692327ad57d8b002393839d8f",
-    "tarball": "https://registry.npmjs.org/gulp-ngn-js/-/gulp-ngn-js-1.0.0.tgz"
-  },
   "homepage": "https://github.com/majexa/gulp-ngn-js#readme",
   "keywords": [
     "ngn"
