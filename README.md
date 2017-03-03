@@ -29,8 +29,11 @@ var ngnJs = require('gulp-ngn-js');
 
 gulp.task('build', function () {
   var opt = {
-    buildFolder: 'build/m',
-    name: 'main'
+    ngnEnvFolder: process.env.NGN_ENV_FOLDER,
+    buildFolder: process.env.PROJECT_FOLDER + '/build/public/m',
+    projectFolder: process.env.PROJECT_FOLDER,
+    name: 'main',
+    jsonFieldsFolder: process.env.PROJECT_FOLDER + '/models'
   };
   var reportOptions = {
     err: true,
